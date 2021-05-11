@@ -1,0 +1,98 @@
+body {
+  font-family: "Krona One", sans-serif;
+}
+
+#fluid1 {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+#footer {
+  text-align: center;
+  display: block;
+  margin-top: 400px;
+  font-size: small;
+}
+
+#archive {
+  background: black;
+  color: #39ff15;
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 4px 50px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow: 1px 1px 4px 1px #007bff;
+}
+
+#manifesto {
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 30px 40px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow: 1px 1px 4px 1px #39ff15;
+}
+
+#manifesto-text {
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 30px 40px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow: 1px 1px 4px 1px #39ff15;
+}
+
+#about {
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 30px 40px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow: 1px 1px 4px 1px #39ff15;
+}
+
+#liveshows {
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 15px 25px 15px 25px;
+  border-radius: 30px 40px;
+  cursor: pointer;
+  margin-top: 30px;
+  box-shadow: 1px 1px 4px 1px #39ff15;
+}
+
+.btn:hover {
+  color: white;
+  background: #39ff15;
+}
+
+#archive:hover {
+  color: #39ff15;
+  background: black;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 25px; /* Height of the footer */
+  color: #007bff;
+  font-size: 12px;
+}
+
+img {
+  display: block;
+}
