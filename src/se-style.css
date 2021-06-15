@@ -38,6 +38,14 @@ h1 {
   width: 800px;
 }
 
+#fluid6 {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  position: relative;
+  margin-top: 100px;
+}
+
 #archive {
   background: black;
   color: #39ff15;
