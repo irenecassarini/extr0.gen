@@ -140,7 +140,7 @@ function handleMix6() {
 }
 
 function handleFollow() {
-  window.open("https://www.instagram.com/extr0.gen/");
+  window.open("https://www.instagram.com/extro.gen/");
 }
 
 document.querySelector("#manifesto").addEventListener("click", handleManifesto);
