@@ -66,6 +66,15 @@ h1 {
   background: black;
 }
 
+.mail{
+  color: blue;
+}
+
+.mail:hover{
+  color: white;
+   transition: ease-in-out 1000ms;
+}
+
 .shows {
   display: block;
   margin: 0 auto;
@@ -77,15 +86,13 @@ h1 {
   box-shadow: 2px 2px 4px 2px #39ff15;
   font-size: 16px;
   background: black;
-  color: white;
+  color: #39ff15;
   border: none;
 }
 
-.member-name {
-  font-weight: bold;
-  font-size: 18px;
-  color: #39ff15;
-}
+
+
+
 
 .genre {
   font-weight: normal;
@@ -192,7 +199,7 @@ img {
 
 /* The actual popup */
 .popup .popuptext {
-  font-size: 11px;
+  font-size: 14px;
   visibility: hidden;
   width: 260px;
   background-color: #39ff15;
